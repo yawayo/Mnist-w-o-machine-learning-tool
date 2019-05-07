@@ -1,1 +1,1 @@
-# Mnist-w-o-machine-learning-tool
+# Mnist-wo-machine-learning-tool
